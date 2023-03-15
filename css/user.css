@@ -1,0 +1,30 @@
+.user-form {
+    margin-left: 16rem;
+}
+
+
+.table {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(40px, auto);
+    gap: 2px;
+    border: 2px solid black;
+    padding: 0;
+}
+  
+.cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+    background-color: #f3f3f3;
+    border: 2px solid black;
+    font-size: 10px;
+}
+
+.header {
+    font-weight: bold;
+    background-color: #F58d17;
+}
+
+  

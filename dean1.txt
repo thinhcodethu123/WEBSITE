@@ -1,0 +1,20 @@
+1) Đầu trang phải có logo và hình ảnh phù hợp về
+Quạt trần, Quạt đứng.
+2) Trang web phải chứa nhiều phần khác nhau. Quạt trần, Quạt đứng, Treo tường
+quạt, Quạt thông gió, Phụ kiện với các sản phẩm được liệt kê trong các danh mục này.
+3) Menu nên được cung cấp với tên phần và phải được liên kết với
+phần.
+
+4) Nên cung cấp các bộ lọc cho Danh mục, Loại, Khoảng giá, Màu sắc, Nhãn hiệu
+vân vân.
+5) Nhấp vào bất kỳ sản phẩm nào sẽ mở cửa sổ bật lên có hình ảnh, mô tả
+và giá cả của sản phẩm.
+6) Nên thêm thư viện để xem các hình ảnh khác nhau.
+7) Đánh giá và xếp hạng sản phẩm phải được người dùng cho phép nhập.
+8) Phải thêm sơ đồ trang web, Thư viện ảnh, giới thiệu về chúng tôi, liên kết Câu hỏi thường gặp, liên kết Liên hệ với chúng tôi.
+9) Giới thiệu và Liên hệ với chúng tôi: Tùy chọn menu này sẽ hiển thị Email id, địa chỉ,
+và số liên lạc.
+10) Phần dành cho các ưu đãi khác nhau trong cửa hàng nên được cung cấp danh sách các ưu đãi
+với các chi tiết.
+11) Sự phối hợp màu sắc phải thống nhất trong toàn bộ công trình.
+12) Điều hướng phải trơn tru.

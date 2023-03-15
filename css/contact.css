@@ -1,0 +1,75 @@
+/* contact */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background:url(../img/contact.png) ;
+}
+.contact-body-content {
+    padding: 20px 0;
+  }
+  .contact-body-content input,
+  select {
+    width: 90% !important;
+    margin: 10px !important;
+    height: 40px;
+    font-size: 16px !important;
+    line-height: 18px;
+    background-color: rgba(255, 255, 255, 0.2) !important;
+  }
+  .form-control:focus,
+  .contact-body-content textarea:focus {
+    outline: none !important;
+    border: 1px solid rgb(205, 201, 201) !important;
+    box-shadow: none !important;
+  }
+  .contact-body-content div:last-child textarea {
+    height: 190px;
+    border: white;
+    border-radius: 5px;
+    width: 90%;
+    margin: 10px 0;
+    padding: 5px 10px;
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    resize: none;
+  }
+  .contact-body-content .form-control::selection {
+    background-color: transparent;
+  }
+  .contact-body-content .dropdown .form-control {
+    color: rgba(14, 14, 14, 0.6);
+    font-weight: 400;
+    cursor: pointer;
+  }
+  .contact-body-content .dropdown ul {
+    width: 90%;
+  }
+  .contact-body {
+    margin-top: 62.2px;
+  }
+  .contact-body h1 {
+    padding-top: 100px;
+    font-weight: 600;
+  }
+  .contact-body button {
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 10px;
+    /* border-radius: 25px; */
+    color: rgb(96, 94, 94);
+    border-color: rgb(205, 201, 201);
+  }
+  .contact-body button:hover {
+    background-color: rgb(205, 201, 201);
+    border-color: rgb(205, 201, 201);
+    color: black;
+}
+
+.send {
+    margin-right: 9rem;
+}
+
+
